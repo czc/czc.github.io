@@ -1,4 +1,4 @@
-## Welcome to Chong Lab!
+## Welcome!
 
 You can use the [editor on GitHub](https://github.com/czc/czc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
